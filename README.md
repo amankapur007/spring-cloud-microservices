@@ -17,3 +17,27 @@ spring.cloud.config.server.git.uri=/home/aman/Downloads/config {path where you h
 
 Run the server 
 
+3. Clone two more repo
+
+https://github.com/amankapur007/eureka-server.git
+
+and 
+
+https://github.com/amankapur007/reservation-business-services.git
+
+4. Also pull  the repo 
+
+a. roomservices
+b. config-server
+c. rservationservices
+d. eureka-server
+
+and add in config folder
+
+reservationbusinessservices.properties 
+---------------------------------------------
+server.port=8500
+
+and commit it . (If you dnt commit locally it wont work)
+
+ 
