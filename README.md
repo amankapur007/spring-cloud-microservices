@@ -40,4 +40,10 @@ server.port=8500
 
 and commit it . (If you dnt commit locally it wont work)
 
- 
+5. Please checkout https://github.com/amankapur007/reservation-business-services.git
+
+git pull 
+
+git checkout Part-2-Feign
+
+
