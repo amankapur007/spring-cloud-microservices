@@ -46,4 +46,10 @@ git pull
 
 git checkout Part-2-Feign
 
+6. Please  Please checkout https://github.com/amankapur007/reservation-business-services.git
+
+git pull
+
+git checkout Part-2-Feign
+
 
